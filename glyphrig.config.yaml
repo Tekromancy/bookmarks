@@ -1,0 +1,27 @@
+# Glyphrig Public Bookmark Site Configuration
+# Only data & config live in this repo; @glyphrig/cli builds Astro + Pagefind in CI.
+
+site:
+  title: Tekromancy Glyphrig Bookmarks
+  description: Tekromancy links
+  author: Joshua Edward MClaughlin Cox and the rest of the Tekromancy crew
+theme:
+  accent: "#b45309"
+  defaultView: list
+enrichment:
+  enabled: true
+  fetchFavicons: true
+  fetchOgImage: true
+  autoTags: false
+  concurrency: 8
+  timeoutMs: 5000
+  ttlDays: 30
+pwa:
+  enabled: true
+  quickAdd:
+    enabled: true
+    forge: github
+    owner: tekromancy
+    repo: bookmarks
+    branch: main
+    rootDir: bookmarks
