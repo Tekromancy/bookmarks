@@ -17,3 +17,4 @@ order: 0
 - [morluto/rea: Reverse engineer anything with agents, from app behavior down to native binaries.](https://github.com/morluto/rea) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.](https://github.com/debpalash/VoiceStudio) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [pbakaus/impeccable: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.](https://github.com/pbakaus/impeccable) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [slavakurilyak/awesome-ai-agents: Awesome list of 300+ agentic AI resources](https://github.com/slavakurilyak/awesome-ai-agents) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
