@@ -1,6 +1,6 @@
 ---
 title: Red
-order: 4
+order: 5
 ---
 
 - [ErdemOzgen/RedAiRange: A professional AI security range for red teaming, vulnerability research, defensive validation, and hands-on AI/ML security training.](https://github.com/ErdemOzgen/RedAiRange) <!-- glyphrig: added=2026-11-23 by=joshuacox -->

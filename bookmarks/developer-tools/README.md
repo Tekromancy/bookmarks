@@ -1,6 +1,6 @@
 ---
 title: Developer Tools
-order: 2
+order: 3
 ---
 
 - [Astro](https://astro.build/) — The static site framework powering Glyphrig `#web` `#ssg` <!-- glyphrig: added=2026-11-23 by=joshuacox -->

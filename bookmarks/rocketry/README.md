@@ -1,6 +1,6 @@
 ---
 title: Rocketry
-order: 5
+order: 6
 ---
 
 - [How to Make Hot Wheels Powered by Sugar Rocket](https://www.pinterest.com/pin/336714509638934627/) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
