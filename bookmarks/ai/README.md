@@ -18,3 +18,5 @@ order: 0
 - [debpalash/VoiceStudio: VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.](https://github.com/debpalash/VoiceStudio) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [pbakaus/impeccable: The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.](https://github.com/pbakaus/impeccable) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [slavakurilyak/awesome-ai-agents: Awesome list of 300+ agentic AI resources](https://github.com/slavakurilyak/awesome-ai-agents) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [multica-ai/multica: Make humans and AI agents work as one team — open-source and self-hostable.](https://github.com/multica-ai/multica/tree/main) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [paperclipai/paperclip: The open-source app everyone uses to manage agents at work](https://github.com/paperclipai/paperclip) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
