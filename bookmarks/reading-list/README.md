@@ -1,6 +1,6 @@
 ---
 title: Reading List
-order: 1
+order: 3
 ---
 
 - [Maggie Appleton — A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history) — On evolving personal knowledge spaces `#digital-garden` `#essays` <!-- glyphrig: added=2026-11-23 by=joshuacox -->
