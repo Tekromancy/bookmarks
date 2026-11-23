@@ -1,0 +1,8 @@
+name: Tekromancy
+version: 1.0.0
+description: Tekromancy cockpit aesthetic - OLED void background, phosphor vector green, Space Grotesk and JetBrains Mono typography.
+type: css
+mode: extend
+entry: theme.css
+colorScheme: dark
+head: head.html

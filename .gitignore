@@ -1,4 +1,5 @@
 .glyphrig-cache/
+.astro/
 dist/
 public/
 .DS_Store

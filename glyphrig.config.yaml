@@ -6,7 +6,9 @@ site:
   description: Tekromancy links
   author: Joshua Edward MClaughlin Cox and the rest of the Tekromancy crew
 theme:
-  accent: "#b45309"
+  use: ./theme
+  colorScheme: dark
+  accent: "#22c55e"
   defaultView: list
 enrichment:
   enabled: true
