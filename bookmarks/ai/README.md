@@ -8,3 +8,6 @@ order: 0
 - [MoneyPrinterTurbo/README-en.md at main · harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo/blob/main/README-en.md) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [paperless-ngx/paperless-ngx: A community-supported supercharged document management system: scan, index and archive all your documents](https://github.com/paperless-ngx/paperless-ngx) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
 - [Skyvern-AI/skyvern: Automate browser based workflows with AI](https://github.com/Skyvern-AI/skyvern) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [Stirling-Tools/Stirling-PDF: #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere](https://github.com/Stirling-Tools/Stirling-PDF) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [resemble-ai/chatterbox: SoTA open-source TTS](https://github.com/resemble-ai/chatterbox) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
+- [affaan-m/ECC: The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.](https://github.com/affaan-m/ECC) <!-- glyphrig: added=2026-11-23 by=joshuacox -->
